@@ -4,19 +4,7 @@ A full-stack AI-powered chatbot web application built with **ASP.NET Core 8.0 MV
 Features user authentication, multi-session chat history, and a professional dark-themed UI  
 comparable to ChatGPT — all using free AI models via OpenRouter.
 
----
 
-## 🖥️ Screenshots
-
-| Login Page | Chat Interface |
-|---|---|
-| ![Login](screenshots/login.png) | ![Chat](screenshots/chat.png) |
-
-| Registration | Multiple Sessions |
-|---|---|
-| ![Register](screenshots/register.png) | ![Sessions](screenshots/sessions.png) |
-
----
 
 ## ✨ Features
 
