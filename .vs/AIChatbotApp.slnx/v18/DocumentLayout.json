@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\aichatbotapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\aichatbotapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\models\\chatmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\models\\chatmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Migrations\\20260328225635_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIChatbotApp\\Migrations\\20260328225635_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|c:\\users\\t l s\\source\\repos\\aichatbotapp\\aichatbotapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40DD4CD0-1807-9468-6F05-28F1DFBF8B43}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Readme.md",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Readme.md",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Readme.md",
+              "RelativeToolTip": "AIChatbotApp\\Readme.md",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAkwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-29T12:22:31.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\.gitignore",
+              "RelativeDocumentMoniker": "AIChatbotApp\\.gitignore",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\.gitignore",
+              "RelativeToolTip": "AIChatbotApp\\.gitignore",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAALAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-03-29T12:20:43.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Program.cs",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Program.cs",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Program.cs",
+              "RelativeToolTip": "AIChatbotApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T20:14:39.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "AIChatbotApp\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T20:12:44.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Views\\Chat\\Index.cshtml",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Views\\Chat\\Index.cshtml",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Views\\Chat\\Index.cshtml",
+              "RelativeToolTip": "AIChatbotApp\\Views\\Chat\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwI4DAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T20:13:56.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatModels.cs",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Models\\ChatModels.cs",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Models\\ChatModels.cs",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Models\\ChatModels.cs",
+              "RelativeToolTip": "AIChatbotApp\\Models\\ChatModels.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAywDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T20:09:58.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AIChatbotApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\appsettings.json",
+              "RelativeToolTip": "AIChatbotApp\\appsettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-28T20:08:09.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AIChatbotApp",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\AIChatbotApp.csproj",
+              "RelativeDocumentMoniker": "AIChatbotApp\\AIChatbotApp.csproj",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\AIChatbotApp.csproj",
+              "RelativeToolTip": "AIChatbotApp\\AIChatbotApp.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-28T20:11:19.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AIChatbotApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T22:38:42.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "AIChatbotApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAALsAAAAAAAAAAAAgwL8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T22:46:36.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AIChatbotApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T22:58:33.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260328225635_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Migrations\\20260328225635_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Migrations\\20260328225635_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Migrations\\20260328225635_InitialCreate.cs",
+              "RelativeToolTip": "AIChatbotApp\\Migrations\\20260328225635_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T22:56:36.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AIChatbotApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T20:20:01.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthModels.cs",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Models\\AuthModels.cs",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Models\\AuthModels.cs",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Models\\AuthModels.cs",
+              "RelativeToolTip": "AIChatbotApp\\Models\\AuthModels.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA5wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T22:39:11.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AIChatbotApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T22:40:05.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "AIChatbotApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAkwMYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T22:45:49.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Dockerfile",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Dockerfile",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Dockerfile",
+              "RelativeToolTip": "AIChatbotApp\\Dockerfile",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-28T20:15:28.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Services\\GeminiService.cs",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Services\\GeminiService.cs",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Services\\GeminiService.cs",
+              "RelativeToolTip": "AIChatbotApp\\Services\\GeminiService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T20:11:44.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\T L S\\source\\repos\\AIChatbotApp\\AIChatbotApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AIChatbotApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T07:22:54.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

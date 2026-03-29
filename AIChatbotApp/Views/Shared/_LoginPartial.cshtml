@@ -1,0 +1,16 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <form method="post" action="/Account/Logout">
+        @Html.AntiForgeryToken()
+        <button type="submit">Logout</button>
+    </form>
+}
+else
+{
+    <a href="/Account/Login">Login</a>
+    <a href="/Account/Register">Register</a>
+}

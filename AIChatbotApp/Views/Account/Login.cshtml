@@ -1,0 +1,199 @@
+﻿@model AIChatbotApp.Models.LoginViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Login – AI Chatbot</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #0f0f10;
+            color: #f0f0f5;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .auth-card {
+            background: #1a1a1f;
+            border: 1px solid #2a2a35;
+            border-radius: 20px;
+            padding: 40px;
+            width: 100%;
+            max-width: 420px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+        }
+
+        .auth-logo {
+            text-align: center;
+            margin-bottom: 28px;
+        }
+
+            .auth-logo .icon {
+                width: 56px;
+                height: 56px;
+                background: rgba(124,106,255,0.15);
+                border: 1px solid #7c6aff;
+                border-radius: 16px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 1.5rem;
+                margin: 0 auto 12px;
+                box-shadow: 0 0 24px rgba(124,106,255,0.2);
+            }
+
+            .auth-logo h1 {
+                font-size: 1.3rem;
+                font-weight: 700;
+            }
+
+            .auth-logo p {
+                font-size: 0.85rem;
+                color: #9090a8;
+                margin-top: 4px;
+            }
+
+        .form-group {
+            margin-bottom: 16px;
+        }
+
+        label {
+            display: block;
+            font-size: 0.82rem;
+            font-weight: 500;
+            color: #9090a8;
+            margin-bottom: 6px;
+        }
+
+        input[type="email"],
+        input[type="password"] {
+            width: 100%;
+            padding: 11px 14px;
+            background: #25252d;
+            border: 1px solid #2a2a35;
+            border-radius: 10px;
+            color: #f0f0f5;
+            font-size: 0.9rem;
+            font-family: 'Inter', sans-serif;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        input:focus {
+            border-color: #7c6aff;
+            box-shadow: 0 0 0 3px rgba(124,106,255,0.15);
+        }
+
+        .remember-row {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 20px;
+            font-size: 0.85rem;
+            color: #9090a8;
+        }
+
+        .submit-btn {
+            width: 100%;
+            padding: 12px;
+            background: #7c6aff;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            cursor: pointer;
+            font-family: 'Inter', sans-serif;
+            transition: all 0.2s;
+        }
+
+            .submit-btn:hover {
+                background: #6857e6;
+                box-shadow: 0 4px 16px rgba(124,106,255,0.3);
+            }
+
+        .auth-footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.85rem;
+            color: #9090a8;
+        }
+
+            .auth-footer a {
+                color: #7c6aff;
+                text-decoration: none;
+                font-weight: 500;
+            }
+
+                .auth-footer a:hover {
+                    text-decoration: underline;
+                }
+
+        .error-list {
+            background: rgba(248,113,113,0.1);
+            border: 1px solid rgba(248,113,113,0.3);
+            border-radius: 10px;
+            padding: 10px 14px;
+            margin-bottom: 16px;
+            font-size: 0.85rem;
+            color: #f87171;
+        }
+    </style>
+</head>
+<body>
+    <div class="auth-card">
+        <div class="auth-logo">
+            <div class="icon">🤖</div>
+            <h1>Welcome back</h1>
+            <p>Sign in to your AI Chatbot account</p>
+        </div>
+
+        @if (!ViewData.ModelState.IsValid)
+        {
+            <div class="error-list">
+                @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                {
+                    <div>⚠️ @error.ErrorMessage</div>
+                }
+            </div>
+        }
+
+        <form method="post">
+            @Html.AntiForgeryToken()
+            <div class="form-group">
+                <label>Email Address</label>
+                <input type="email" name="Email" placeholder="you@example.com" required />
+            </div>
+            <div class="form-group">
+                <label>Password</label>
+                <input type="password" name="Password" placeholder="••••••••" required />
+            </div>
+            <div class="remember-row">
+                <input type="checkbox" name="RememberMe" id="remember" />
+                <label for="remember" style="margin:0">Remember me</label>
+            </div>
+            <button type="submit" class="submit-btn">
+                <i class="fas fa-sign-in-alt"></i> Sign In
+            </button>
+        </form>
+
+        <div class="auth-footer">
+            Don't have an account? <a href="/Account/Register">Create one</a>
+        </div>
+    </div>
+</body>
+</html>
